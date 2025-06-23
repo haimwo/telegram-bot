@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: telegram-bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    envVars:
+      - key: BOT_TOKEN
+        value: 7647549024:AAFr0UIQnijsN18cPbuYMVReM8UI8Iha2MY
+      - key: TUYA_API_KEY
+        value: k7frnqg3tynew44xpsnu
+      - key: TUYA_API_SECRET
+        value: ef310947c2a0af95381cd12d3d9c
+      - key: TUYA_API_REGION
+        value: eu
