@@ -1,6 +1,508 @@
 {
     "result": [
         {
+            "active_time": 1749671096,
+            "biz_type": 0,
+            "category": "infrared_amplifier",
+            "create_time": 1749671096,
+            "icon": "smart/icon/001453365846342fhj9e/0c740f1879ffb68cdd697f62159f4f2b.png",
+            "id": "bf6a44afabddf1634cktfe",
+            "ip": "",
+            "lat": "31.93",
+            "local_key": "oo6P}pJp#_*yDXlx",
+            "lon": "34.89",
+            "model": "",
+            "name": "Audio",
+            "node_id": "c198eeefeddae0c7",
+            "online": true,
+            "owner_id": "59215961",
+            "product_id": "g4epfqle2vmfaxb8",
+            "product_name": "Audio",
+            "sub": true,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750704906,
+            "uuid": "bf6a44afabddf1634cktfe"
+        },
+        {
+            "active_time": 1749666180,
+            "biz_type": 0,
+            "category": "qt",
+            "create_time": 1749666180,
+            "icon": "smart/icon/001453365846342fhj9e/3ae30fdebdf6639a6ed0a4fd00e17322.png",
+            "id": "bfffd723031c15760a7emk",
+            "ip": "",
+            "lat": "31.94",
+            "local_key": "oo6P}pJp#_*yDXlx",
+            "lon": "34.9",
+            "model": "",
+            "name": "DIY",
+            "node_id": "a6baca31a2642829",
+            "online": true,
+            "owner_id": "59215961",
+            "product_id": "91aksdftymyl3bol",
+            "product_name": "DIY",
+            "sub": true,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750704906,
+            "uuid": "bfffd723031c15760a7emk"
+        },
+        {
+            "active_time": 1749465205,
+            "biz_type": 0,
+            "category": "infrared_ac",
+            "create_time": 1749465205,
+            "icon": "smart/icon/001453365846342fhj9e/11c62df7bd89c10f43d3e5ee8d13b4f4.png",
+            "id": "bfb2dd6244494dd645ghp4",
+            "ip": "",
+            "lat": "31.94",
+            "local_key": "oo6P}pJp#_*yDXlx",
+            "lon": "34.9",
+            "model": "",
+            "name": "Air Conditioning",
+            "node_id": "af50d6fbd90900ab",
+            "online": true,
+            "owner_id": "59215961",
+            "product_id": "qzktzhehinzsz2je",
+            "product_name": "Air Conditioning",
+            "sub": true,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750704906,
+            "uuid": "bfb2dd6244494dd645ghp4"
+        },
+        {
+            "active_time": 1749465067,
+            "biz_type": 0,
+            "category": "wnykq",
+            "create_time": 1749459844,
+            "icon": "smart/icon/ay1525749833414yotNt/af87e60f680f9a7c2aedaa645418ee51.png",
+            "id": "bfc85694c4f991841amqac",
+            "ip": "147.234.64.57",
+            "lat": "31.94",
+            "local_key": "oo6P}pJp#_*yDXlx",
+            "lon": "34.9",
+            "model": "S06ProWB3S\u65b0\u754c\u9762",
+            "name": "\u05d7\u05d9\u05d9\u05e9\u05df \u05d5\u05e9\u05dc\u05d8 \u05d0\u05d9\u05e0\u05e4\u05e8\u05d0 \u05d0\u05d3\u05d5\u05dd \u05e1\u05dc\u05d5\u05df",
+            "online": true,
+            "owner_id": "59215961",
+            "product_id": "whs3cty93fzrqkpt",
+            "product_name": "Smart IR",
+            "status": [
+                {
+                    "code": "va_temperature",
+                    "value": 253
+                },
+                {
+                    "code": "va_humidity",
+                    "value": 77
+                }
+            ],
+            "sub": false,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750704906,
+            "uuid": "cb8ad7206b27c19c"
+        },
+        {
+            "active_time": 1748993798,
+            "biz_type": 0,
+            "category": "dlq",
+            "create_time": 1748472427,
+            "icon": "smart/icon/bay16900168785808BSo/fb3cad17cc56e4a1c29ece1002f2851a.png",
+            "id": "bfd7baff6c715e74abhxpd",
+            "ip": "147.234.64.57",
+            "lat": "31.94",
+            "local_key": "hR1M$U_+'>Oqdlu`",
+            "lon": "34.9",
+            "model": "\u54c1\u8bfa-07",
+            "name": "\u05e4\u05e7\u05e7 \u05de\u05d6\u05d2\u05df \u05e1\u05dc\u05d5\u05df",
+            "online": true,
+            "owner_id": "59215961",
+            "product_id": "7ysipozmzy79tna5",
+            "product_name": "\u8ba1\u91cf\u65ad\u8def\u5668",
+            "status": [
+                {
+                    "code": "switch",
+                    "value": true
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "add_ele",
+                    "value": 3
+                },
+                {
+                    "code": "cur_current",
+                    "value": 85
+                },
+                {
+                    "code": "cur_power",
+                    "value": 39
+                },
+                {
+                    "code": "cur_voltage",
+                    "value": 2341
+                },
+                {
+                    "code": "test_bit",
+                    "value": 2
+                },
+                {
+                    "code": "voltage_coe",
+                    "value": 0
+                },
+                {
+                    "code": "electric_coe",
+                    "value": 0
+                },
+                {
+                    "code": "power_coe",
+                    "value": 0
+                },
+                {
+                    "code": "electricity_coe",
+                    "value": 0
+                },
+                {
+                    "code": "fault",
+                    "value": 0
+                },
+                {
+                    "code": "relay_status",
+                    "value": "power_on"
+                },
+                {
+                    "code": "light_mode",
+                    "value": "relay"
+                },
+                {
+                    "code": "child_lock",
+                    "value": false
+                },
+                {
+                    "code": "cycle_time",
+                    "value": ""
+                },
+                {
+                    "code": "temp_value",
+                    "value": 23
+                },
+                {
+                    "code": "alarm_set_1",
+                    "value": "BQEAVQcAAAA="
+                },
+                {
+                    "code": "alarm_set_2",
+                    "value": "AQEAPwMBAQkEAQBk"
+                }
+            ],
+            "sub": false,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750704898,
+            "uuid": "cf94198cdff881fa"
+        },
+        {
+            "active_time": 1750427658,
+            "biz_type": 0,
+            "category": "infrared_ac",
+            "create_time": 1750427658,
+            "icon": "smart/icon/001453365846342fhj9e/11c62df7bd89c10f43d3e5ee8d13b4f4.png",
+            "id": "bf0729b073f299ca3b91nq",
+            "ip": "",
+            "lat": "31.94",
+            "local_key": ".!-IT;Xv2i=Fy<e&",
+            "lon": "34.9",
+            "model": "",
+            "name": "\u05e9\u05dc\u05d8 \u05de\u05d6\u05d2\u05df \u05d7\u05d3\u05e8 \u05e9\u05d9\u05e0\u05d4",
+            "node_id": "af50d6fbd90900ab",
+            "online": true,
+            "owner_id": "59215961",
+            "product_id": "qzktzhehinzsz2je",
+            "product_name": "Air Conditioning",
+            "sub": true,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750704897,
+            "uuid": "bf0729b073f299ca3b91nq"
+        },
+        {
+            "active_time": 1750427509,
+            "biz_type": 0,
+            "category": "wnykq",
+            "create_time": 1750427509,
+            "icon": "smart/icon/ay1525749833414yotNt/af87e60f680f9a7c2aedaa645418ee51.png",
+            "id": "bf636e4c2327674c17jnyh",
+            "ip": "147.234.64.57",
+            "lat": "31.94",
+            "local_key": ".!-IT;Xv2i=Fy<e&",
+            "lon": "34.9",
+            "model": "S06ProWB3S\u65b0\u754c\u9762",
+            "name": "\u05d0\u05d9\u05e0\u05e4\u05e8\u05d0 \u05d0\u05d3\u05d5\u05dd \u05d7\u05d3\u05e8 \u05e9\u05d9\u05e0\u05d4",
+            "online": true,
+            "owner_id": "59215961",
+            "product_id": "whs3cty93fzrqkpt",
+            "product_name": "Smart IR",
+            "status": [
+                {
+                    "code": "va_temperature",
+                    "value": 249
+                },
+                {
+                    "code": "va_humidity",
+                    "value": 73
+                }
+            ],
+            "sub": false,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750704897,
+            "uuid": "cbc3cc8d89056122"
+        },
+        {
+            "active_time": 1747679284,
+            "biz_type": 0,
+            "category": "infrared_ac",
+            "create_time": 1684147943,
+            "icon": "smart/ir/icon/9knfrm4eawao.png",
+            "id": "bf70a7f280eac8e904zqso",
+            "ip": "",
+            "lat": "31.94",
+            "local_key": "Gzvnd73Hd>#LdK50",
+            "lon": "34.9",
+            "model": "",
+            "name": "\u05ea\u05d3\u05d9\u05e8\u05d0\u05df",
+            "node_id": "af50d6fbd90900ab",
+            "online": true,
+            "owner_id": "59215961",
+            "product_id": "000000e651",
+            "product_name": "Air Conditioner",
+            "sub": true,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750704895,
+            "uuid": "bf70a7f280eac8e904zqso"
+        },
+        {
+            "active_time": 1747678961,
+            "biz_type": 0,
+            "category": "wnykq",
+            "create_time": 1684145082,
+            "icon": "smart/icon/ay1525749833414yotNt/1652879104ff0b119ee69.png",
+            "id": "bf92b1661afcdd5ba5wurf",
+            "ip": "147.234.64.41",
+            "lat": "31.94",
+            "local_key": "Gzvnd73Hd>#LdK50",
+            "lon": "34.9",
+            "model": "",
+            "name": "\u05e9\u05dc\u05d8 \u05d0\u05d9\u05e0\u05e4\u05e8\u05d0 \u05d0\u05d3\u05d5\u05dd \u05de\u05d8\u05d1\u05d7",
+            "online": true,
+            "owner_id": "59215961",
+            "product_id": "pwdxov5sa0tc4jky",
+            "product_name": "Smart IR",
+            "sub": false,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750704895,
+            "uuid": "b979de0a2a3b2795"
+        },
+        {
+            "active_time": 1732809968,
+            "biz_type": 0,
+            "category": "clkg",
+            "create_time": 1732809968,
+            "icon": "smart/icon/bay1611024616021eetm/09b246c4d0b2becae91a09c7a47508b2.png",
+            "id": "bfed21281a763adc17ak21",
+            "ip": "147.234.64.51",
+            "lat": "31.94",
+            "local_key": "8!EI7w?G~SK1}yDZ",
+            "lon": "34.9",
+            "model": "qcsc400wv3",
+            "name": "\u05ea\u05e8\u05d9\u05e1 \u05d7\u05e9\u05de\u05dc\u05d9",
+            "online": true,
+            "owner_id": "59215961",
+            "product_id": "4pqpkp1rskkjtxay",
+            "product_name": "Curtain switch",
+            "status": [
+                {
+                    "code": "control",
+                    "value": "stop"
+                },
+                {
+                    "code": "control_back_mode",
+                    "value": "forward"
+                },
+                {
+                    "code": "tr_timecon",
+                    "value": 17
+                }
+            ],
+            "sub": false,
+            "time_zone": "+02:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750704892,
+            "uuid": "105bdc36985b3e9a"
+        },
+        {
+            "active_time": 1747808658,
+            "biz_type": 0,
+            "category": "cz",
+            "create_time": 1663736306,
+            "icon": "smart/icon/ay15422864509092y6k8/eb67e7b7246fd70147c3af601628d074.png",
+            "id": "bfe2ce01ff2fa62d2frbsa",
+            "ip": "147.234.64.41",
+            "lat": "31.94",
+            "local_key": ")?bdG&c$YEa~|d6i",
+            "lon": "34.9",
+            "model": "LSP-16DL",
+            "name": "\u05e9\u05e7\u05e2 \u05d7\u05db\u05dd",
+            "online": true,
+            "owner_id": "59215961",
+            "product_id": "j0zozzoarutv0nu1",
+            "product_name": "Wifi Plug",
+            "status": [
+                {
+                    "code": "switch_1",
+                    "value": true
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "add_ele",
+                    "value": 13
+                },
+                {
+                    "code": "cur_current",
+                    "value": 186
+                },
+                {
+                    "code": "cur_power",
+                    "value": 247
+                },
+                {
+                    "code": "cur_voltage",
+                    "value": 2412
+                },
+                {
+                    "code": "relay_status",
+                    "value": "last"
+                },
+                {
+                    "code": "cycle_time",
+                    "value": ""
+                },
+                {
+                    "code": "random_time",
+                    "value": ""
+                }
+            ],
+            "sub": false,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750704887,
+            "uuid": "ab16941921979199"
+        },
+        {
+            "active_time": 1744065158,
+            "biz_type": 0,
+            "category": "kg",
+            "create_time": 1691663148,
+            "icon": "smart/icon/ay1555152715108CdSVS/7418cb18cb8f85864d46ea5e33cf5cc9.png",
+            "id": "bf99cebbfccecdd893nqbv",
+            "ip": "147.234.64.41",
+            "lat": "31.94",
+            "local_key": "B>rYx|*=1e/vaJqM",
+            "lon": "34.9",
+            "model": "WF-WHS-2",
+            "name": "\u05d3\u05d5\u05d3 \u05d7\u05db\u05dd",
+            "online": true,
+            "owner_id": "59215961",
+            "product_id": "q12otmraana5krrz",
+            "product_name": "WiFi Water Heater Switch",
+            "status": [
+                {
+                    "code": "switch_1",
+                    "value": false
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "relay_status",
+                    "value": "power_off"
+                },
+                {
+                    "code": "light_mode",
+                    "value": "relay"
+                },
+                {
+                    "code": "switch_backlight",
+                    "value": false
+                },
+                {
+                    "code": "cycle_time",
+                    "value": ""
+                },
+                {
+                    "code": "random_time",
+                    "value": ""
+                },
+                {
+                    "code": "switch_inching",
+                    "value": "AQqM"
+                }
+            ],
+            "sub": false,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750704870,
+            "uuid": "eb9a2421e2efd062"
+        },
+        {
+            "active_time": 1715236203,
+            "biz_type": 0,
+            "category": "ywbj",
+            "create_time": 1715236203,
+            "icon": "smart/icon/ay1537847617560vAgbw/25f8dac62666b48bcf179530abb05422.jpg",
+            "id": "bfcc79feacb91bcb1e11m9",
+            "ip": "147.234.64.35",
+            "lat": "31.93",
+            "local_key": "~qk'gT4ki=w(}27#",
+            "lon": "34.89",
+            "model": "YG400A-CBU",
+            "name": "\u05d2\u05dc\u05d0\u05d9 \u05e2\u05e9\u05df \u05de\u05de\"\u05d3",
+            "online": true,
+            "owner_id": "59215961",
+            "product_id": "jypukhecbhaw1c47",
+            "product_name": "Smoke detector",
+            "status": [
+                {
+                    "code": "smoke_sensor_status",
+                    "value": "normal"
+                },
+                {
+                    "code": "temper_alarm",
+                    "value": false
+                },
+                {
+                    "code": "battery_percentage",
+                    "value": 35
+                }
+            ],
+            "sub": false,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750704250,
+            "uuid": "344a3493677c94c5"
+        },
+        {
             "active_time": 1749103214,
             "biz_type": 0,
             "category": "dlq",
@@ -28,107 +530,6 @@
                 },
                 {
                     "code": "add_ele",
-                    "value": 2
-                },
-                {
-                    "code": "cur_current",
-                    "value": 0
-                },
-                {
-                    "code": "cur_power",
-                    "value": 0
-                },
-                {
-                    "code": "cur_voltage",
-                    "value": 2301
-                },
-                {
-                    "code": "test_bit",
-                    "value": 2
-                },
-                {
-                    "code": "voltage_coe",
-                    "value": 0
-                },
-                {
-                    "code": "electric_coe",
-                    "value": 0
-                },
-                {
-                    "code": "power_coe",
-                    "value": 0
-                },
-                {
-                    "code": "electricity_coe",
-                    "value": 0
-                },
-                {
-                    "code": "fault",
-                    "value": 0
-                },
-                {
-                    "code": "relay_status",
-                    "value": "last"
-                },
-                {
-                    "code": "light_mode",
-                    "value": "relay"
-                },
-                {
-                    "code": "child_lock",
-                    "value": false
-                },
-                {
-                    "code": "cycle_time",
-                    "value": ""
-                },
-                {
-                    "code": "temp_value",
-                    "value": 29
-                },
-                {
-                    "code": "alarm_set_1",
-                    "value": "BQEAVQcAAAA="
-                },
-                {
-                    "code": "alarm_set_2",
-                    "value": "AQEAPwMBAQkEAQBk"
-                }
-            ],
-            "sub": false,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750614723,
-            "uuid": "b9a30f1361e7fd32"
-        },
-        {
-            "active_time": 1749103113,
-            "biz_type": 0,
-            "category": "dlq",
-            "create_time": 1749103113,
-            "icon": "smart/icon/bay16900168785808BSo/ede39b4b7d24f370acc97f0ac60473c7.png",
-            "id": "bf69ffde7b8bd72f6cgh15",
-            "ip": "147.235.198.219",
-            "lat": "31.94",
-            "local_key": "^iZ'&3*k=q_?UH;b",
-            "lon": "34.9",
-            "model": "\u54c1\u8bfa-\u6709\u6e29\u5ea6-\u8ba1\u91cf",
-            "name": "1 \u05e9\u05de\u05d0\u05dc",
-            "online": true,
-            "owner_id": "226031582",
-            "product_id": "odhgp5hewa1o7mdn",
-            "product_name": "\u8ba1\u91cf\u65ad\u8def\u5668",
-            "status": [
-                {
-                    "code": "switch",
-                    "value": false
-                },
-                {
-                    "code": "countdown_1",
-                    "value": 0
-                },
-                {
-                    "code": "add_ele",
                     "value": 1
                 },
                 {
@@ -141,108 +542,7 @@
                 },
                 {
                     "code": "cur_voltage",
-                    "value": 2305
-                },
-                {
-                    "code": "test_bit",
-                    "value": 2
-                },
-                {
-                    "code": "voltage_coe",
-                    "value": 0
-                },
-                {
-                    "code": "electric_coe",
-                    "value": 0
-                },
-                {
-                    "code": "power_coe",
-                    "value": 0
-                },
-                {
-                    "code": "electricity_coe",
-                    "value": 0
-                },
-                {
-                    "code": "fault",
-                    "value": 0
-                },
-                {
-                    "code": "relay_status",
-                    "value": "last"
-                },
-                {
-                    "code": "light_mode",
-                    "value": "relay"
-                },
-                {
-                    "code": "child_lock",
-                    "value": false
-                },
-                {
-                    "code": "cycle_time",
-                    "value": ""
-                },
-                {
-                    "code": "temp_value",
-                    "value": 29
-                },
-                {
-                    "code": "alarm_set_1",
-                    "value": "BQEAVQcAAAA="
-                },
-                {
-                    "code": "alarm_set_2",
-                    "value": "AQEAPwMBAQkEAQBk"
-                }
-            ],
-            "sub": false,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750614720,
-            "uuid": "607739137ce45964"
-        },
-        {
-            "active_time": 1750020750,
-            "biz_type": 0,
-            "category": "dlq",
-            "create_time": 1750020750,
-            "icon": "smart/icon/bay16900168785808BSo/ede39b4b7d24f370acc97f0ac60473c7.png",
-            "id": "bf2aa815665372bb188mom",
-            "ip": "147.235.204.183",
-            "lat": "31.94",
-            "local_key": "'}&1Di0)F_&ZAf_;",
-            "lon": "34.9",
-            "model": "\u54c1\u8bfa-\u6709\u6e29\u5ea6-\u8ba1\u91cf",
-            "name": "\u05de\u05e9\u05d0\u05d1\u05ea \u05de\u05d9\u05dd \u05e9\u05d1\u05ea",
-            "online": true,
-            "owner_id": "226031582",
-            "product_id": "odhgp5hewa1o7mdn",
-            "product_name": "\u8ba1\u91cf\u65ad\u8def\u5668",
-            "status": [
-                {
-                    "code": "switch",
-                    "value": false
-                },
-                {
-                    "code": "countdown_1",
-                    "value": 0
-                },
-                {
-                    "code": "add_ele",
-                    "value": 1
-                },
-                {
-                    "code": "cur_current",
-                    "value": 0
-                },
-                {
-                    "code": "cur_power",
-                    "value": 0
-                },
-                {
-                    "code": "cur_voltage",
-                    "value": 2240
+                    "value": 2339
                 },
                 {
                     "code": "test_bit",
@@ -300,109 +600,8 @@
             "sub": false,
             "time_zone": "+03:00",
             "uid": "eu1655395710291Ackvi",
-            "update_time": 1750614718,
-            "uuid": "c327c3c85c1a6971"
-        },
-        {
-            "active_time": 1749361147,
-            "biz_type": 0,
-            "category": "dlq",
-            "create_time": 1749361147,
-            "icon": "smart/icon/bay16900168785808BSo/ede39b4b7d24f370acc97f0ac60473c7.png",
-            "id": "bf400b7898c56dec1f8qju",
-            "ip": "147.235.204.187",
-            "lat": "31.94",
-            "local_key": "kw$s|;|WT0'xa#o:",
-            "lon": "34.9",
-            "model": "\u54c1\u8bfa-\u6709\u6e29\u5ea6-\u8ba1\u91cf",
-            "name": "\u05de\u05d6\u05d2\u05df \u05d1\u05d9\u05ea \u05e9\u05e0\u05d9 (\u05de\u05de\"\u05d3) \u05e6\u05d3 \u05d9\u05de\u05d9\u05df",
-            "online": true,
-            "owner_id": "226031582",
-            "product_id": "odhgp5hewa1o7mdn",
-            "product_name": "\u8ba1\u91cf\u65ad\u8def\u5668",
-            "status": [
-                {
-                    "code": "switch",
-                    "value": false
-                },
-                {
-                    "code": "countdown_1",
-                    "value": 0
-                },
-                {
-                    "code": "add_ele",
-                    "value": 1
-                },
-                {
-                    "code": "cur_current",
-                    "value": 41
-                },
-                {
-                    "code": "cur_power",
-                    "value": 21
-                },
-                {
-                    "code": "cur_voltage",
-                    "value": 2300
-                },
-                {
-                    "code": "test_bit",
-                    "value": 2
-                },
-                {
-                    "code": "voltage_coe",
-                    "value": 0
-                },
-                {
-                    "code": "electric_coe",
-                    "value": 0
-                },
-                {
-                    "code": "power_coe",
-                    "value": 0
-                },
-                {
-                    "code": "electricity_coe",
-                    "value": 0
-                },
-                {
-                    "code": "fault",
-                    "value": 0
-                },
-                {
-                    "code": "relay_status",
-                    "value": "last"
-                },
-                {
-                    "code": "light_mode",
-                    "value": "relay"
-                },
-                {
-                    "code": "child_lock",
-                    "value": false
-                },
-                {
-                    "code": "cycle_time",
-                    "value": ""
-                },
-                {
-                    "code": "temp_value",
-                    "value": 30
-                },
-                {
-                    "code": "alarm_set_1",
-                    "value": "BQEAVQcAAAA="
-                },
-                {
-                    "code": "alarm_set_2",
-                    "value": "AQEAPwMBAQkEAQBk"
-                }
-            ],
-            "sub": false,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750614718,
-            "uuid": "d322b573ca25565f"
+            "update_time": 1750702108,
+            "uuid": "b9a30f1361e7fd32"
         },
         {
             "active_time": 1749103491,
@@ -432,19 +631,19 @@
                 },
                 {
                     "code": "add_ele",
-                    "value": 270
+                    "value": 249
                 },
                 {
                     "code": "cur_current",
-                    "value": 7001
+                    "value": 6648
                 },
                 {
                     "code": "cur_power",
-                    "value": 16122
+                    "value": 15071
                 },
                 {
                     "code": "cur_voltage",
-                    "value": 2344
+                    "value": 2316
                 },
                 {
                     "code": "test_bit",
@@ -502,7 +701,7 @@
             "sub": false,
             "time_zone": "+03:00",
             "uid": "eu1655395710291Ackvi",
-            "update_time": 1750614718,
+            "update_time": 1750702104,
             "uuid": "bf0fc3da7cd86ef1"
         },
         {
@@ -525,208 +724,6 @@
             "status": [
                 {
                     "code": "switch",
-                    "value": true
-                },
-                {
-                    "code": "countdown_1",
-                    "value": 0
-                },
-                {
-                    "code": "add_ele",
-                    "value": 166
-                },
-                {
-                    "code": "cur_current",
-                    "value": 4440
-                },
-                {
-                    "code": "cur_power",
-                    "value": 9918
-                },
-                {
-                    "code": "cur_voltage",
-                    "value": 2314
-                },
-                {
-                    "code": "test_bit",
-                    "value": 2
-                },
-                {
-                    "code": "voltage_coe",
-                    "value": 0
-                },
-                {
-                    "code": "electric_coe",
-                    "value": 0
-                },
-                {
-                    "code": "power_coe",
-                    "value": 0
-                },
-                {
-                    "code": "electricity_coe",
-                    "value": 0
-                },
-                {
-                    "code": "fault",
-                    "value": 0
-                },
-                {
-                    "code": "relay_status",
-                    "value": "last"
-                },
-                {
-                    "code": "light_mode",
-                    "value": "relay"
-                },
-                {
-                    "code": "child_lock",
-                    "value": false
-                },
-                {
-                    "code": "cycle_time",
-                    "value": ""
-                },
-                {
-                    "code": "temp_value",
-                    "value": 30
-                },
-                {
-                    "code": "alarm_set_1",
-                    "value": "BQEAVQcAAAA="
-                },
-                {
-                    "code": "alarm_set_2",
-                    "value": "AQEAPwMBAQkEAQBk"
-                }
-            ],
-            "sub": false,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750614718,
-            "uuid": "5c1b34efaf4d4dac"
-        },
-        {
-            "active_time": 1749361127,
-            "biz_type": 0,
-            "category": "dlq",
-            "create_time": 1749361127,
-            "icon": "smart/icon/bay16900168785808BSo/ede39b4b7d24f370acc97f0ac60473c7.png",
-            "id": "bff215f40e841fb977kzba",
-            "ip": "147.235.204.187",
-            "lat": "31.94",
-            "local_key": "E3<G=?o|KK4tCJM@",
-            "lon": "34.9",
-            "model": "\u54c1\u8bfa-\u6709\u6e29\u5ea6-\u8ba1\u91cf",
-            "name": "2 \u05de\u05d6\u05d2\u05e0\u05d9\u05dd \u05d1\u05d9\u05ea \u05e9\u05e0\u05d9 (\u05de\u05de\"\u05d3) \u05e6\u05d3 \u05e9\u05de\u05d0\u05dc",
-            "online": true,
-            "owner_id": "226031582",
-            "product_id": "odhgp5hewa1o7mdn",
-            "product_name": "\u8ba1\u91cf\u65ad\u8def\u5668",
-            "status": [
-                {
-                    "code": "switch",
-                    "value": true
-                },
-                {
-                    "code": "countdown_1",
-                    "value": 0
-                },
-                {
-                    "code": "add_ele",
-                    "value": 425
-                },
-                {
-                    "code": "cur_current",
-                    "value": 11212
-                },
-                {
-                    "code": "cur_power",
-                    "value": 25559
-                },
-                {
-                    "code": "cur_voltage",
-                    "value": 2300
-                },
-                {
-                    "code": "test_bit",
-                    "value": 2
-                },
-                {
-                    "code": "voltage_coe",
-                    "value": 0
-                },
-                {
-                    "code": "electric_coe",
-                    "value": 0
-                },
-                {
-                    "code": "power_coe",
-                    "value": 0
-                },
-                {
-                    "code": "electricity_coe",
-                    "value": 0
-                },
-                {
-                    "code": "fault",
-                    "value": 0
-                },
-                {
-                    "code": "relay_status",
-                    "value": "last"
-                },
-                {
-                    "code": "light_mode",
-                    "value": "relay"
-                },
-                {
-                    "code": "child_lock",
-                    "value": false
-                },
-                {
-                    "code": "cycle_time",
-                    "value": ""
-                },
-                {
-                    "code": "temp_value",
-                    "value": 32
-                },
-                {
-                    "code": "alarm_set_1",
-                    "value": "BQEAVQcAAAA="
-                },
-                {
-                    "code": "alarm_set_2",
-                    "value": "AQEAPwMBAQkEAQBk"
-                }
-            ],
-            "sub": false,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750614717,
-            "uuid": "f00e4aad4d6833e4"
-        },
-        {
-            "active_time": 1749103427,
-            "biz_type": 0,
-            "category": "dlq",
-            "create_time": 1749103427,
-            "icon": "smart/icon/bay16900168785808BSo/ede39b4b7d24f370acc97f0ac60473c7.png",
-            "id": "bf6ab4cc5e3ad90c122dcb",
-            "ip": "147.235.198.219",
-            "lat": "31.94",
-            "local_key": "$&H1P!}!i>9Gr^h1",
-            "lon": "34.9",
-            "model": "\u54c1\u8bfa-\u6709\u6e29\u5ea6-\u8ba1\u91cf",
-            "name": "\u05e7\u05d3\u05de\u05d9 \u05d9\u05de\u05e0\u05d9 \u05d1\u05d9\"\u05de",
-            "online": true,
-            "owner_id": "226031582",
-            "product_id": "odhgp5hewa1o7mdn",
-            "product_name": "\u8ba1\u91cf\u65ad\u8def\u5668",
-            "status": [
-                {
-                    "code": "switch",
                     "value": false
                 },
                 {
@@ -735,108 +732,7 @@
                 },
                 {
                     "code": "add_ele",
-                    "value": 1
-                },
-                {
-                    "code": "cur_current",
-                    "value": 54
-                },
-                {
-                    "code": "cur_power",
-                    "value": 21
-                },
-                {
-                    "code": "cur_voltage",
-                    "value": 2348
-                },
-                {
-                    "code": "test_bit",
-                    "value": 2
-                },
-                {
-                    "code": "voltage_coe",
-                    "value": 0
-                },
-                {
-                    "code": "electric_coe",
-                    "value": 0
-                },
-                {
-                    "code": "power_coe",
-                    "value": 0
-                },
-                {
-                    "code": "electricity_coe",
-                    "value": 0
-                },
-                {
-                    "code": "fault",
-                    "value": 0
-                },
-                {
-                    "code": "relay_status",
-                    "value": "last"
-                },
-                {
-                    "code": "light_mode",
-                    "value": "relay"
-                },
-                {
-                    "code": "child_lock",
-                    "value": false
-                },
-                {
-                    "code": "cycle_time",
-                    "value": ""
-                },
-                {
-                    "code": "temp_value",
-                    "value": 30
-                },
-                {
-                    "code": "alarm_set_1",
-                    "value": "BQEAVQcAAAA="
-                },
-                {
-                    "code": "alarm_set_2",
-                    "value": "AQEAPwMBAQkEAQBk"
-                }
-            ],
-            "sub": false,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750614714,
-            "uuid": "cfcc839884d2d371"
-        },
-        {
-            "active_time": 1749361109,
-            "biz_type": 0,
-            "category": "dlq",
-            "create_time": 1749361109,
-            "icon": "smart/icon/bay16900168785808BSo/ede39b4b7d24f370acc97f0ac60473c7.png",
-            "id": "bf8dcd0addc01a118eugzd",
-            "ip": "147.235.204.187",
-            "lat": "31.94",
-            "local_key": "[x7QMw*1FQ(Z?0N.",
-            "lon": "34.9",
-            "model": "\u54c1\u8bfa-\u6709\u6e29\u5ea6-\u8ba1\u91cf",
-            "name": "\u05de\u05d6\u05d2\u05df \u05e2\u05d6\u05e8\u05ea \u05e0\u05e9\u05d9\u05dd",
-            "online": true,
-            "owner_id": "226031582",
-            "product_id": "odhgp5hewa1o7mdn",
-            "product_name": "\u8ba1\u91cf\u65ad\u8def\u5668",
-            "status": [
-                {
-                    "code": "switch",
-                    "value": false
-                },
-                {
-                    "code": "countdown_1",
-                    "value": 0
-                },
-                {
-                    "code": "add_ele",
-                    "value": 1
+                    "value": 269
                 },
                 {
                     "code": "cur_current",
@@ -848,7 +744,7 @@
                 },
                 {
                     "code": "cur_voltage",
-                    "value": 2305
+                    "value": 2375
                 },
                 {
                     "code": "test_bit",
@@ -906,22 +802,115 @@
             "sub": false,
             "time_zone": "+03:00",
             "uid": "eu1655395710291Ackvi",
-            "update_time": 1750614713,
-            "uuid": "c9332e1763b09ea7"
+            "update_time": 1750702100,
+            "uuid": "5c1b34efaf4d4dac"
         },
         {
-            "active_time": 1749103371,
+            "active_time": 1746944425,
             "biz_type": 0,
             "category": "dlq",
-            "create_time": 1749103371,
-            "icon": "smart/icon/bay16900168785808BSo/ede39b4b7d24f370acc97f0ac60473c7.png",
-            "id": "bf6023deac221e436fah7j",
-            "ip": "147.235.198.219",
+            "create_time": 1746944425,
+            "icon": "smart/icon/bay1668649074167YlMo/fe3f17538291836e39710b0842619515.png",
+            "id": "bf49f9435d2c0bf0a4lqml",
+            "ip": "147.235.193.223",
             "lat": "31.94",
-            "local_key": "vR)fU~dG;P8G6A6_",
+            "local_key": "nF;&'+khb>&zrSZ:",
+            "lon": "34.91",
+            "model": "",
+            "name": "\u05de\u05d5\u05e0\u05d4 \u05d7\u05e9\u05de\u05dc \u05d1\u05d9\u05ea \u05d4\u05de\u05d3\u05e8\u05e9",
+            "online": true,
+            "owner_id": "59215961",
+            "product_id": "4x198rybhwtzirm7",
+            "product_name": "Breaker",
+            "status": [
+                {
+                    "code": "total_forward_energy",
+                    "value": 565280
+                },
+                {
+                    "code": "phase_a",
+                    "value": "CUgAABYAAAE="
+                },
+                {
+                    "code": "phase_b",
+                    "value": "CRAAG5YABkQ="
+                },
+                {
+                    "code": "phase_c",
+                    "value": "CM8AUR4AEYg="
+                },
+                {
+                    "code": "fault",
+                    "value": 0
+                },
+                {
+                    "code": "switch_prepayment",
+                    "value": false
+                },
+                {
+                    "code": "energy_reset",
+                    "value": ""
+                },
+                {
+                    "code": "balance_energy",
+                    "value": 0
+                },
+                {
+                    "code": "charge_energy",
+                    "value": 0
+                },
+                {
+                    "code": "leakage_current",
+                    "value": 0
+                },
+                {
+                    "code": "switch",
+                    "value": true
+                },
+                {
+                    "code": "alarm_set_1",
+                    "value": "BQEAVQQAAB4="
+                },
+                {
+                    "code": "alarm_set_2",
+                    "value": "AQEDIAMBARMEAQCvAgAAFAUAAAA="
+                },
+                {
+                    "code": "temp_current",
+                    "value": 45
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "cycle_time",
+                    "value": "EwAAAAAAAAAAAA=="
+                },
+                {
+                    "code": "random_time",
+                    "value": ""
+                }
+            ],
+            "sub": false,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750702087,
+            "uuid": "9dc5eabfa7a2f4fd"
+        },
+        {
+            "active_time": 1750020750,
+            "biz_type": 0,
+            "category": "dlq",
+            "create_time": 1750020750,
+            "icon": "smart/icon/bay16900168785808BSo/ede39b4b7d24f370acc97f0ac60473c7.png",
+            "id": "bf2aa815665372bb188mom",
+            "ip": "147.235.204.183",
+            "lat": "31.94",
+            "local_key": "'}&1Di0)F_&ZAf_;",
             "lon": "34.9",
             "model": "\u54c1\u8bfa-\u6709\u6e29\u5ea6-\u8ba1\u91cf",
-            "name": "\u05d0\u05d7\u05d5\u05e8\u05d9 \u05e9\u05de\u05d0\u05dc\u05d9 \u05d1\u05d9\"\u05de",
+            "name": "\u05de\u05e9\u05d0\u05d1\u05ea \u05de\u05d9\u05dd \u05e9\u05d1\u05ea",
             "online": true,
             "owner_id": "226031582",
             "product_id": "odhgp5hewa1o7mdn",
@@ -941,15 +930,217 @@
                 },
                 {
                     "code": "cur_current",
-                    "value": 74
+                    "value": 38
                 },
                 {
                     "code": "cur_power",
-                    "value": 34
+                    "value": 28
                 },
                 {
                     "code": "cur_voltage",
-                    "value": 2341
+                    "value": 2236
+                },
+                {
+                    "code": "test_bit",
+                    "value": 2
+                },
+                {
+                    "code": "voltage_coe",
+                    "value": 0
+                },
+                {
+                    "code": "electric_coe",
+                    "value": 0
+                },
+                {
+                    "code": "power_coe",
+                    "value": 0
+                },
+                {
+                    "code": "electricity_coe",
+                    "value": 0
+                },
+                {
+                    "code": "fault",
+                    "value": 0
+                },
+                {
+                    "code": "relay_status",
+                    "value": "last"
+                },
+                {
+                    "code": "light_mode",
+                    "value": "relay"
+                },
+                {
+                    "code": "child_lock",
+                    "value": false
+                },
+                {
+                    "code": "cycle_time",
+                    "value": ""
+                },
+                {
+                    "code": "temp_value",
+                    "value": 28
+                },
+                {
+                    "code": "alarm_set_1",
+                    "value": "BQEAVQcAAAA="
+                },
+                {
+                    "code": "alarm_set_2",
+                    "value": "AQEAPwMBAQkEAQBk"
+                }
+            ],
+            "sub": false,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750702087,
+            "uuid": "c327c3c85c1a6971"
+        },
+        {
+            "active_time": 1749361147,
+            "biz_type": 0,
+            "category": "dlq",
+            "create_time": 1749361147,
+            "icon": "smart/icon/bay16900168785808BSo/ede39b4b7d24f370acc97f0ac60473c7.png",
+            "id": "bf400b7898c56dec1f8qju",
+            "ip": "147.235.204.187",
+            "lat": "31.94",
+            "local_key": "kw$s|;|WT0'xa#o:",
+            "lon": "34.9",
+            "model": "\u54c1\u8bfa-\u6709\u6e29\u5ea6-\u8ba1\u91cf",
+            "name": "\u05de\u05d6\u05d2\u05df \u05d1\u05d9\u05ea \u05e9\u05e0\u05d9 (\u05de\u05de\"\u05d3) \u05e6\u05d3 \u05d9\u05de\u05d9\u05df",
+            "online": true,
+            "owner_id": "226031582",
+            "product_id": "odhgp5hewa1o7mdn",
+            "product_name": "\u8ba1\u91cf\u65ad\u8def\u5668",
+            "status": [
+                {
+                    "code": "switch",
+                    "value": false
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "add_ele",
+                    "value": 1
+                },
+                {
+                    "code": "cur_current",
+                    "value": 0
+                },
+                {
+                    "code": "cur_power",
+                    "value": 0
+                },
+                {
+                    "code": "cur_voltage",
+                    "value": 2340
+                },
+                {
+                    "code": "test_bit",
+                    "value": 2
+                },
+                {
+                    "code": "voltage_coe",
+                    "value": 0
+                },
+                {
+                    "code": "electric_coe",
+                    "value": 0
+                },
+                {
+                    "code": "power_coe",
+                    "value": 0
+                },
+                {
+                    "code": "electricity_coe",
+                    "value": 0
+                },
+                {
+                    "code": "fault",
+                    "value": 0
+                },
+                {
+                    "code": "relay_status",
+                    "value": "last"
+                },
+                {
+                    "code": "light_mode",
+                    "value": "relay"
+                },
+                {
+                    "code": "child_lock",
+                    "value": false
+                },
+                {
+                    "code": "cycle_time",
+                    "value": ""
+                },
+                {
+                    "code": "temp_value",
+                    "value": 31
+                },
+                {
+                    "code": "alarm_set_1",
+                    "value": "BQEAVQcAAAA="
+                },
+                {
+                    "code": "alarm_set_2",
+                    "value": "AQEAPwMBAQkEAQBk"
+                }
+            ],
+            "sub": false,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750702087,
+            "uuid": "d322b573ca25565f"
+        },
+        {
+            "active_time": 1749103427,
+            "biz_type": 0,
+            "category": "dlq",
+            "create_time": 1749103427,
+            "icon": "smart/icon/bay16900168785808BSo/ede39b4b7d24f370acc97f0ac60473c7.png",
+            "id": "bf6ab4cc5e3ad90c122dcb",
+            "ip": "147.235.198.219",
+            "lat": "31.94",
+            "local_key": "$&H1P!}!i>9Gr^h1",
+            "lon": "34.9",
+            "model": "\u54c1\u8bfa-\u6709\u6e29\u5ea6-\u8ba1\u91cf",
+            "name": "\u05e7\u05d3\u05de\u05d9 \u05d9\u05de\u05e0\u05d9 \u05d1\u05d9\"\u05de",
+            "online": true,
+            "owner_id": "226031582",
+            "product_id": "odhgp5hewa1o7mdn",
+            "product_name": "\u8ba1\u91cf\u65ad\u8def\u5668",
+            "status": [
+                {
+                    "code": "switch",
+                    "value": false
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "add_ele",
+                    "value": 1
+                },
+                {
+                    "code": "cur_current",
+                    "value": 43
+                },
+                {
+                    "code": "cur_power",
+                    "value": 22
+                },
+                {
+                    "code": "cur_voltage",
+                    "value": 2337
                 },
                 {
                     "code": "test_bit",
@@ -1007,158 +1198,412 @@
             "sub": false,
             "time_zone": "+03:00",
             "uid": "eu1655395710291Ackvi",
-            "update_time": 1750614713,
-            "uuid": "ab7186edbe283e64"
+            "update_time": 1750702086,
+            "uuid": "cfcc839884d2d371"
         },
         {
-            "active_time": 1746944425,
+            "active_time": 1749103371,
             "biz_type": 0,
             "category": "dlq",
-            "create_time": 1746944425,
-            "icon": "smart/icon/bay1668649074167YlMo/fe3f17538291836e39710b0842619515.png",
-            "id": "bf49f9435d2c0bf0a4lqml",
-            "ip": "147.235.193.223",
+            "create_time": 1749103371,
+            "icon": "smart/icon/bay16900168785808BSo/ede39b4b7d24f370acc97f0ac60473c7.png",
+            "id": "bf6023deac221e436fah7j",
+            "ip": "147.235.198.219",
             "lat": "31.94",
-            "local_key": "nF;&'+khb>&zrSZ:",
-            "lon": "34.91",
-            "model": "",
-            "name": "\u05de\u05d5\u05e0\u05d4 \u05d7\u05e9\u05de\u05dc \u05d1\u05d9\u05ea \u05d4\u05de\u05d3\u05e8\u05e9",
+            "local_key": "vR)fU~dG;P8G6A6_",
+            "lon": "34.9",
+            "model": "\u54c1\u8bfa-\u6709\u6e29\u5ea6-\u8ba1\u91cf",
+            "name": "\u05d0\u05d7\u05d5\u05e8\u05d9 \u05e9\u05de\u05d0\u05dc\u05d9 \u05d1\u05d9\"\u05de",
             "online": true,
-            "owner_id": "59215961",
-            "product_id": "4x198rybhwtzirm7",
-            "product_name": "Breaker",
+            "owner_id": "226031582",
+            "product_id": "odhgp5hewa1o7mdn",
+            "product_name": "\u8ba1\u91cf\u65ad\u8def\u5668",
             "status": [
                 {
-                    "code": "total_forward_energy",
-                    "value": 545935
-                },
-                {
-                    "code": "phase_a",
-                    "value": "CQYAPqQADmM="
-                },
-                {
-                    "code": "phase_b",
-                    "value": "CS4AHdsABuY="
-                },
-                {
-                    "code": "phase_c",
-                    "value": "CNkAaBYAFvE="
-                },
-                {
-                    "code": "fault",
-                    "value": 0
-                },
-                {
-                    "code": "switch_prepayment",
-                    "value": false
-                },
-                {
-                    "code": "energy_reset",
-                    "value": ""
-                },
-                {
-                    "code": "balance_energy",
-                    "value": 0
-                },
-                {
-                    "code": "charge_energy",
-                    "value": 0
-                },
-                {
-                    "code": "leakage_current",
-                    "value": 0
-                },
-                {
                     "code": "switch",
-                    "value": true
-                },
-                {
-                    "code": "alarm_set_1",
-                    "value": "BQEAVQQAAB4="
-                },
-                {
-                    "code": "alarm_set_2",
-                    "value": "AQEDIAMBARMEAQCvAgAAFAUAAAA="
-                },
-                {
-                    "code": "temp_current",
-                    "value": 48
+                    "value": false
                 },
                 {
                     "code": "countdown_1",
                     "value": 0
                 },
                 {
-                    "code": "cycle_time",
-                    "value": "EwAAAAAAAAAAAA=="
+                    "code": "add_ele",
+                    "value": 30
                 },
                 {
-                    "code": "random_time",
+                    "code": "cur_current",
+                    "value": 0
+                },
+                {
+                    "code": "cur_power",
+                    "value": 0
+                },
+                {
+                    "code": "cur_voltage",
+                    "value": 2353
+                },
+                {
+                    "code": "test_bit",
+                    "value": 2
+                },
+                {
+                    "code": "voltage_coe",
+                    "value": 0
+                },
+                {
+                    "code": "electric_coe",
+                    "value": 0
+                },
+                {
+                    "code": "power_coe",
+                    "value": 0
+                },
+                {
+                    "code": "electricity_coe",
+                    "value": 0
+                },
+                {
+                    "code": "fault",
+                    "value": 0
+                },
+                {
+                    "code": "relay_status",
+                    "value": "last"
+                },
+                {
+                    "code": "light_mode",
+                    "value": "relay"
+                },
+                {
+                    "code": "child_lock",
+                    "value": false
+                },
+                {
+                    "code": "cycle_time",
                     "value": ""
+                },
+                {
+                    "code": "temp_value",
+                    "value": 30
+                },
+                {
+                    "code": "alarm_set_1",
+                    "value": "BQEAVQcAAAA="
+                },
+                {
+                    "code": "alarm_set_2",
+                    "value": "AQEAPwMBAQkEAQBk"
                 }
             ],
             "sub": false,
             "time_zone": "+03:00",
             "uid": "eu1655395710291Ackvi",
-            "update_time": 1750614709,
-            "uuid": "9dc5eabfa7a2f4fd"
+            "update_time": 1750702083,
+            "uuid": "ab7186edbe283e64"
         },
         {
-            "active_time": 1750427658,
+            "active_time": 1749361109,
             "biz_type": 0,
-            "category": "infrared_ac",
-            "create_time": 1750427658,
-            "icon": "smart/icon/001453365846342fhj9e/11c62df7bd89c10f43d3e5ee8d13b4f4.png",
-            "id": "bf0729b073f299ca3b91nq",
-            "ip": "",
+            "category": "dlq",
+            "create_time": 1749361109,
+            "icon": "smart/icon/bay16900168785808BSo/ede39b4b7d24f370acc97f0ac60473c7.png",
+            "id": "bf8dcd0addc01a118eugzd",
+            "ip": "147.235.204.187",
             "lat": "31.94",
-            "local_key": ".!-IT;Xv2i=Fy<e&",
+            "local_key": "[x7QMw*1FQ(Z?0N.",
             "lon": "34.9",
-            "model": "",
-            "name": "\u05e9\u05dc\u05d8 \u05de\u05d6\u05d2\u05df \u05d7\u05d3\u05e8 \u05e9\u05d9\u05e0\u05d4",
-            "node_id": "af50d6fbd90900ab",
+            "model": "\u54c1\u8bfa-\u6709\u6e29\u5ea6-\u8ba1\u91cf",
+            "name": "\u05de\u05d6\u05d2\u05df \u05e2\u05d6\u05e8\u05ea \u05e0\u05e9\u05d9\u05dd",
             "online": true,
-            "owner_id": "59215961",
-            "product_id": "qzktzhehinzsz2je",
-            "product_name": "Air Conditioning",
-            "sub": true,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750613599,
-            "uuid": "bf0729b073f299ca3b91nq"
-        },
-        {
-            "active_time": 1750427509,
-            "biz_type": 0,
-            "category": "wnykq",
-            "create_time": 1750427509,
-            "icon": "smart/icon/ay1525749833414yotNt/af87e60f680f9a7c2aedaa645418ee51.png",
-            "id": "bf636e4c2327674c17jnyh",
-            "ip": "147.234.64.57",
-            "lat": "31.94",
-            "local_key": ".!-IT;Xv2i=Fy<e&",
-            "lon": "34.9",
-            "model": "S06ProWB3S\u65b0\u754c\u9762",
-            "name": "\u05d0\u05d9\u05e0\u05e4\u05e8\u05d0 \u05d0\u05d3\u05d5\u05dd \u05d7\u05d3\u05e8 \u05e9\u05d9\u05e0\u05d4",
-            "online": true,
-            "owner_id": "59215961",
-            "product_id": "whs3cty93fzrqkpt",
-            "product_name": "Smart IR",
+            "owner_id": "226031582",
+            "product_id": "odhgp5hewa1o7mdn",
+            "product_name": "\u8ba1\u91cf\u65ad\u8def\u5668",
             "status": [
                 {
-                    "code": "va_temperature",
-                    "value": 241
+                    "code": "switch",
+                    "value": false
                 },
                 {
-                    "code": "va_humidity",
-                    "value": 69
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "add_ele",
+                    "value": 196
+                },
+                {
+                    "code": "cur_current",
+                    "value": 0
+                },
+                {
+                    "code": "cur_power",
+                    "value": 0
+                },
+                {
+                    "code": "cur_voltage",
+                    "value": 2345
+                },
+                {
+                    "code": "test_bit",
+                    "value": 2
+                },
+                {
+                    "code": "voltage_coe",
+                    "value": 0
+                },
+                {
+                    "code": "electric_coe",
+                    "value": 0
+                },
+                {
+                    "code": "power_coe",
+                    "value": 0
+                },
+                {
+                    "code": "electricity_coe",
+                    "value": 0
+                },
+                {
+                    "code": "fault",
+                    "value": 0
+                },
+                {
+                    "code": "relay_status",
+                    "value": "last"
+                },
+                {
+                    "code": "light_mode",
+                    "value": "relay"
+                },
+                {
+                    "code": "child_lock",
+                    "value": false
+                },
+                {
+                    "code": "cycle_time",
+                    "value": ""
+                },
+                {
+                    "code": "temp_value",
+                    "value": 31
+                },
+                {
+                    "code": "alarm_set_1",
+                    "value": "BQEAVQcAAAA="
+                },
+                {
+                    "code": "alarm_set_2",
+                    "value": "AQEAPwMBAQkEAQBk"
                 }
             ],
             "sub": false,
             "time_zone": "+03:00",
             "uid": "eu1655395710291Ackvi",
-            "update_time": 1750613599,
-            "uuid": "cbc3cc8d89056122"
+            "update_time": 1750702078,
+            "uuid": "c9332e1763b09ea7"
+        },
+        {
+            "active_time": 1749103113,
+            "biz_type": 0,
+            "category": "dlq",
+            "create_time": 1749103113,
+            "icon": "smart/icon/bay16900168785808BSo/ede39b4b7d24f370acc97f0ac60473c7.png",
+            "id": "bf69ffde7b8bd72f6cgh15",
+            "ip": "147.235.198.219",
+            "lat": "31.94",
+            "local_key": "^iZ'&3*k=q_?UH;b",
+            "lon": "34.9",
+            "model": "\u54c1\u8bfa-\u6709\u6e29\u5ea6-\u8ba1\u91cf",
+            "name": "1 \u05e9\u05de\u05d0\u05dc",
+            "online": true,
+            "owner_id": "226031582",
+            "product_id": "odhgp5hewa1o7mdn",
+            "product_name": "\u8ba1\u91cf\u65ad\u8def\u5668",
+            "status": [
+                {
+                    "code": "switch",
+                    "value": false
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "add_ele",
+                    "value": 1
+                },
+                {
+                    "code": "cur_current",
+                    "value": 0
+                },
+                {
+                    "code": "cur_power",
+                    "value": 0
+                },
+                {
+                    "code": "cur_voltage",
+                    "value": 2344
+                },
+                {
+                    "code": "test_bit",
+                    "value": 2
+                },
+                {
+                    "code": "voltage_coe",
+                    "value": 0
+                },
+                {
+                    "code": "electric_coe",
+                    "value": 0
+                },
+                {
+                    "code": "power_coe",
+                    "value": 0
+                },
+                {
+                    "code": "electricity_coe",
+                    "value": 0
+                },
+                {
+                    "code": "fault",
+                    "value": 0
+                },
+                {
+                    "code": "relay_status",
+                    "value": "last"
+                },
+                {
+                    "code": "light_mode",
+                    "value": "relay"
+                },
+                {
+                    "code": "child_lock",
+                    "value": false
+                },
+                {
+                    "code": "cycle_time",
+                    "value": ""
+                },
+                {
+                    "code": "temp_value",
+                    "value": 28
+                },
+                {
+                    "code": "alarm_set_1",
+                    "value": "BQEAVQcAAAA="
+                },
+                {
+                    "code": "alarm_set_2",
+                    "value": "AQEAPwMBAQkEAQBk"
+                }
+            ],
+            "sub": false,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750702078,
+            "uuid": "607739137ce45964"
+        },
+        {
+            "active_time": 1749361127,
+            "biz_type": 0,
+            "category": "dlq",
+            "create_time": 1749361127,
+            "icon": "smart/icon/bay16900168785808BSo/ede39b4b7d24f370acc97f0ac60473c7.png",
+            "id": "bff215f40e841fb977kzba",
+            "ip": "147.235.204.187",
+            "lat": "31.94",
+            "local_key": "E3<G=?o|KK4tCJM@",
+            "lon": "34.9",
+            "model": "\u54c1\u8bfa-\u6709\u6e29\u5ea6-\u8ba1\u91cf",
+            "name": "2 \u05de\u05d6\u05d2\u05e0\u05d9\u05dd \u05d1\u05d9\u05ea \u05e9\u05e0\u05d9 (\u05de\u05de\"\u05d3) \u05e6\u05d3 \u05e9\u05de\u05d0\u05dc",
+            "online": true,
+            "owner_id": "226031582",
+            "product_id": "odhgp5hewa1o7mdn",
+            "product_name": "\u8ba1\u91cf\u65ad\u8def\u5668",
+            "status": [
+                {
+                    "code": "switch",
+                    "value": false
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "add_ele",
+                    "value": 185
+                },
+                {
+                    "code": "cur_current",
+                    "value": 0
+                },
+                {
+                    "code": "cur_power",
+                    "value": 0
+                },
+                {
+                    "code": "cur_voltage",
+                    "value": 2342
+                },
+                {
+                    "code": "test_bit",
+                    "value": 2
+                },
+                {
+                    "code": "voltage_coe",
+                    "value": 0
+                },
+                {
+                    "code": "electric_coe",
+                    "value": 0
+                },
+                {
+                    "code": "power_coe",
+                    "value": 0
+                },
+                {
+                    "code": "electricity_coe",
+                    "value": 0
+                },
+                {
+                    "code": "fault",
+                    "value": 0
+                },
+                {
+                    "code": "relay_status",
+                    "value": "last"
+                },
+                {
+                    "code": "light_mode",
+                    "value": "relay"
+                },
+                {
+                    "code": "child_lock",
+                    "value": false
+                },
+                {
+                    "code": "cycle_time",
+                    "value": ""
+                },
+                {
+                    "code": "temp_value",
+                    "value": 32
+                },
+                {
+                    "code": "alarm_set_1",
+                    "value": "BQEAVQcAAAA="
+                },
+                {
+                    "code": "alarm_set_2",
+                    "value": "AQEAPwMBAQkEAQBk"
+                }
+            ],
+            "sub": false,
+            "time_zone": "+03:00",
+            "uid": "eu1655395710291Ackvi",
+            "update_time": 1750702077,
+            "uuid": "f00e4aad4d6833e4"
         },
         {
             "active_time": 1710034534,
@@ -1188,156 +1633,14 @@
                 },
                 {
                     "code": "battery_percentage",
-                    "value": 20
+                    "value": 19
                 }
             ],
             "sub": false,
             "time_zone": "+02:00",
             "uid": "eu1655395710291Ackvi",
-            "update_time": 1750607596,
+            "update_time": 1750694019,
             "uuid": "98ec2e9dbf294d5c"
-        },
-        {
-            "active_time": 1732809968,
-            "biz_type": 0,
-            "category": "clkg",
-            "create_time": 1732809968,
-            "icon": "smart/icon/bay1611024616021eetm/09b246c4d0b2becae91a09c7a47508b2.png",
-            "id": "bfed21281a763adc17ak21",
-            "ip": "147.234.64.51",
-            "lat": "31.94",
-            "local_key": "8!EI7w?G~SK1}yDZ",
-            "lon": "34.9",
-            "model": "qcsc400wv3",
-            "name": "\u05ea\u05e8\u05d9\u05e1 \u05d7\u05e9\u05de\u05dc\u05d9",
-            "online": true,
-            "owner_id": "59215961",
-            "product_id": "4pqpkp1rskkjtxay",
-            "product_name": "Curtain switch",
-            "status": [
-                {
-                    "code": "control",
-                    "value": "stop"
-                },
-                {
-                    "code": "control_back_mode",
-                    "value": "forward"
-                },
-                {
-                    "code": "tr_timecon",
-                    "value": 17
-                }
-            ],
-            "sub": false,
-            "time_zone": "+02:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750593215,
-            "uuid": "105bdc36985b3e9a"
-        },
-        {
-            "active_time": 1749671096,
-            "biz_type": 0,
-            "category": "infrared_amplifier",
-            "create_time": 1749671096,
-            "icon": "smart/icon/001453365846342fhj9e/0c740f1879ffb68cdd697f62159f4f2b.png",
-            "id": "bf6a44afabddf1634cktfe",
-            "ip": "",
-            "lat": "31.93",
-            "local_key": "oo6P}pJp#_*yDXlx",
-            "lon": "34.89",
-            "model": "",
-            "name": "Audio",
-            "node_id": "c198eeefeddae0c7",
-            "online": true,
-            "owner_id": "59215961",
-            "product_id": "g4epfqle2vmfaxb8",
-            "product_name": "Audio",
-            "sub": true,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750593214,
-            "uuid": "bf6a44afabddf1634cktfe"
-        },
-        {
-            "active_time": 1749666180,
-            "biz_type": 0,
-            "category": "qt",
-            "create_time": 1749666180,
-            "icon": "smart/icon/001453365846342fhj9e/3ae30fdebdf6639a6ed0a4fd00e17322.png",
-            "id": "bfffd723031c15760a7emk",
-            "ip": "",
-            "lat": "31.94",
-            "local_key": "oo6P}pJp#_*yDXlx",
-            "lon": "34.9",
-            "model": "",
-            "name": "DIY",
-            "node_id": "a6baca31a2642829",
-            "online": true,
-            "owner_id": "59215961",
-            "product_id": "91aksdftymyl3bol",
-            "product_name": "DIY",
-            "sub": true,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750593214,
-            "uuid": "bfffd723031c15760a7emk"
-        },
-        {
-            "active_time": 1749465205,
-            "biz_type": 0,
-            "category": "infrared_ac",
-            "create_time": 1749465205,
-            "icon": "smart/icon/001453365846342fhj9e/11c62df7bd89c10f43d3e5ee8d13b4f4.png",
-            "id": "bfb2dd6244494dd645ghp4",
-            "ip": "",
-            "lat": "31.94",
-            "local_key": "oo6P}pJp#_*yDXlx",
-            "lon": "34.9",
-            "model": "",
-            "name": "Air Conditioning",
-            "node_id": "af50d6fbd90900ab",
-            "online": true,
-            "owner_id": "59215961",
-            "product_id": "qzktzhehinzsz2je",
-            "product_name": "Air Conditioning",
-            "sub": true,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750593214,
-            "uuid": "bfb2dd6244494dd645ghp4"
-        },
-        {
-            "active_time": 1749465067,
-            "biz_type": 0,
-            "category": "wnykq",
-            "create_time": 1749459844,
-            "icon": "smart/icon/ay1525749833414yotNt/af87e60f680f9a7c2aedaa645418ee51.png",
-            "id": "bfc85694c4f991841amqac",
-            "ip": "147.234.64.57",
-            "lat": "31.94",
-            "local_key": "oo6P}pJp#_*yDXlx",
-            "lon": "34.9",
-            "model": "S06ProWB3S\u65b0\u754c\u9762",
-            "name": "\u05d7\u05d9\u05d9\u05e9\u05df \u05d5\u05e9\u05dc\u05d8 \u05d0\u05d9\u05e0\u05e4\u05e8\u05d0 \u05d0\u05d3\u05d5\u05dd \u05e1\u05dc\u05d5\u05df",
-            "online": true,
-            "owner_id": "59215961",
-            "product_id": "whs3cty93fzrqkpt",
-            "product_name": "Smart IR",
-            "status": [
-                {
-                    "code": "va_temperature",
-                    "value": 218
-                },
-                {
-                    "code": "va_humidity",
-                    "value": 93
-                }
-            ],
-            "sub": false,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750593213,
-            "uuid": "cb8ad7206b27c19c"
         },
         {
             "active_time": 1732879139,
@@ -1352,7 +1655,7 @@
             "lon": "34.9",
             "model": "Aubess Smart Switch/EM",
             "name": "\u05e4\u05e1 \u05dc\u05d3",
-            "online": true,
+            "online": false,
             "owner_id": "59215961",
             "product_id": "labfkgzm2ikdcpdp",
             "product_name": "Aubess Smart Switch/EM",
@@ -1379,7 +1682,7 @@
                 },
                 {
                     "code": "cur_voltage",
-                    "value": 2366
+                    "value": 2309
                 },
                 {
                     "code": "test_bit",
@@ -1413,311 +1716,8 @@
             "sub": false,
             "time_zone": "+02:00",
             "uid": "eu1655395710291Ackvi",
-            "update_time": 1750593210,
+            "update_time": 1750680989,
             "uuid": "46c1b2e6061e95aa"
-        },
-        {
-            "active_time": 1748993798,
-            "biz_type": 0,
-            "category": "dlq",
-            "create_time": 1748472427,
-            "icon": "smart/icon/bay16900168785808BSo/fb3cad17cc56e4a1c29ece1002f2851a.png",
-            "id": "bfd7baff6c715e74abhxpd",
-            "ip": "147.234.64.57",
-            "lat": "31.94",
-            "local_key": "hR1M$U_+'>Oqdlu`",
-            "lon": "34.9",
-            "model": "\u54c1\u8bfa-07",
-            "name": "\u05e4\u05e7\u05e7 \u05de\u05d6\u05d2\u05df \u05e1\u05dc\u05d5\u05df",
-            "online": true,
-            "owner_id": "59215961",
-            "product_id": "7ysipozmzy79tna5",
-            "product_name": "\u8ba1\u91cf\u65ad\u8def\u5668",
-            "status": [
-                {
-                    "code": "switch",
-                    "value": true
-                },
-                {
-                    "code": "countdown_1",
-                    "value": 0
-                },
-                {
-                    "code": "add_ele",
-                    "value": 184
-                },
-                {
-                    "code": "cur_current",
-                    "value": 405
-                },
-                {
-                    "code": "cur_power",
-                    "value": 561
-                },
-                {
-                    "code": "cur_voltage",
-                    "value": 2361
-                },
-                {
-                    "code": "test_bit",
-                    "value": 2
-                },
-                {
-                    "code": "voltage_coe",
-                    "value": 0
-                },
-                {
-                    "code": "electric_coe",
-                    "value": 0
-                },
-                {
-                    "code": "power_coe",
-                    "value": 0
-                },
-                {
-                    "code": "electricity_coe",
-                    "value": 0
-                },
-                {
-                    "code": "fault",
-                    "value": 0
-                },
-                {
-                    "code": "relay_status",
-                    "value": "power_on"
-                },
-                {
-                    "code": "light_mode",
-                    "value": "relay"
-                },
-                {
-                    "code": "child_lock",
-                    "value": false
-                },
-                {
-                    "code": "cycle_time",
-                    "value": ""
-                },
-                {
-                    "code": "temp_value",
-                    "value": 24
-                },
-                {
-                    "code": "alarm_set_1",
-                    "value": "BQEAVQcAAAA="
-                },
-                {
-                    "code": "alarm_set_2",
-                    "value": "AQEAPwMBAQkEAQBk"
-                }
-            ],
-            "sub": false,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750593203,
-            "uuid": "cf94198cdff881fa"
-        },
-        {
-            "active_time": 1747679284,
-            "biz_type": 0,
-            "category": "infrared_ac",
-            "create_time": 1684147943,
-            "icon": "smart/ir/icon/9knfrm4eawao.png",
-            "id": "bf70a7f280eac8e904zqso",
-            "ip": "",
-            "lat": "31.94",
-            "local_key": "Gzvnd73Hd>#LdK50",
-            "lon": "34.9",
-            "model": "",
-            "name": "\u05ea\u05d3\u05d9\u05e8\u05d0\u05df",
-            "node_id": "af50d6fbd90900ab",
-            "online": true,
-            "owner_id": "59215961",
-            "product_id": "000000e651",
-            "product_name": "Air Conditioner",
-            "sub": true,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750593197,
-            "uuid": "bf70a7f280eac8e904zqso"
-        },
-        {
-            "active_time": 1747678961,
-            "biz_type": 0,
-            "category": "wnykq",
-            "create_time": 1684145082,
-            "icon": "smart/icon/ay1525749833414yotNt/1652879104ff0b119ee69.png",
-            "id": "bf92b1661afcdd5ba5wurf",
-            "ip": "147.234.64.41",
-            "lat": "31.94",
-            "local_key": "Gzvnd73Hd>#LdK50",
-            "lon": "34.9",
-            "model": "",
-            "name": "\u05e9\u05dc\u05d8 \u05d0\u05d9\u05e0\u05e4\u05e8\u05d0 \u05d0\u05d3\u05d5\u05dd \u05de\u05d8\u05d1\u05d7",
-            "online": true,
-            "owner_id": "59215961",
-            "product_id": "pwdxov5sa0tc4jky",
-            "product_name": "Smart IR",
-            "sub": false,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750593197,
-            "uuid": "b979de0a2a3b2795"
-        },
-        {
-            "active_time": 1747808658,
-            "biz_type": 0,
-            "category": "cz",
-            "create_time": 1663736306,
-            "icon": "smart/icon/ay15422864509092y6k8/eb67e7b7246fd70147c3af601628d074.png",
-            "id": "bfe2ce01ff2fa62d2frbsa",
-            "ip": "147.234.64.41",
-            "lat": "31.94",
-            "local_key": ")?bdG&c$YEa~|d6i",
-            "lon": "34.9",
-            "model": "LSP-16DL",
-            "name": "\u05e9\u05e7\u05e2 \u05d7\u05db\u05dd",
-            "online": true,
-            "owner_id": "59215961",
-            "product_id": "j0zozzoarutv0nu1",
-            "product_name": "Wifi Plug",
-            "status": [
-                {
-                    "code": "switch_1",
-                    "value": true
-                },
-                {
-                    "code": "countdown_1",
-                    "value": 0
-                },
-                {
-                    "code": "add_ele",
-                    "value": 12
-                },
-                {
-                    "code": "cur_current",
-                    "value": 183
-                },
-                {
-                    "code": "cur_power",
-                    "value": 248
-                },
-                {
-                    "code": "cur_voltage",
-                    "value": 2412
-                },
-                {
-                    "code": "relay_status",
-                    "value": "last"
-                },
-                {
-                    "code": "cycle_time",
-                    "value": ""
-                },
-                {
-                    "code": "random_time",
-                    "value": ""
-                }
-            ],
-            "sub": false,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750593192,
-            "uuid": "ab16941921979199"
-        },
-        {
-            "active_time": 1744065158,
-            "biz_type": 0,
-            "category": "kg",
-            "create_time": 1691663148,
-            "icon": "smart/icon/ay1555152715108CdSVS/7418cb18cb8f85864d46ea5e33cf5cc9.png",
-            "id": "bf99cebbfccecdd893nqbv",
-            "ip": "147.234.64.41",
-            "lat": "31.94",
-            "local_key": "B>rYx|*=1e/vaJqM",
-            "lon": "34.9",
-            "model": "WF-WHS-2",
-            "name": "\u05d3\u05d5\u05d3 \u05d7\u05db\u05dd",
-            "online": true,
-            "owner_id": "59215961",
-            "product_id": "q12otmraana5krrz",
-            "product_name": "WiFi Water Heater Switch",
-            "status": [
-                {
-                    "code": "switch_1",
-                    "value": false
-                },
-                {
-                    "code": "countdown_1",
-                    "value": 0
-                },
-                {
-                    "code": "relay_status",
-                    "value": "power_off"
-                },
-                {
-                    "code": "light_mode",
-                    "value": "relay"
-                },
-                {
-                    "code": "switch_backlight",
-                    "value": false
-                },
-                {
-                    "code": "cycle_time",
-                    "value": ""
-                },
-                {
-                    "code": "random_time",
-                    "value": ""
-                },
-                {
-                    "code": "switch_inching",
-                    "value": "AQqM"
-                }
-            ],
-            "sub": false,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750593178,
-            "uuid": "eb9a2421e2efd062"
-        },
-        {
-            "active_time": 1715236203,
-            "biz_type": 0,
-            "category": "ywbj",
-            "create_time": 1715236203,
-            "icon": "smart/icon/ay1537847617560vAgbw/25f8dac62666b48bcf179530abb05422.jpg",
-            "id": "bfcc79feacb91bcb1e11m9",
-            "ip": "147.234.64.35",
-            "lat": "31.93",
-            "local_key": "~qk'gT4ki=w(}27#",
-            "lon": "34.89",
-            "model": "YG400A-CBU",
-            "name": "\u05d2\u05dc\u05d0\u05d9 \u05e2\u05e9\u05df \u05de\u05de\"\u05d3",
-            "online": true,
-            "owner_id": "59215961",
-            "product_id": "jypukhecbhaw1c47",
-            "product_name": "Smoke detector",
-            "status": [
-                {
-                    "code": "smoke_sensor_status",
-                    "value": "normal"
-                },
-                {
-                    "code": "temper_alarm",
-                    "value": false
-                },
-                {
-                    "code": "battery_percentage",
-                    "value": 37
-                }
-            ],
-            "sub": false,
-            "time_zone": "+03:00",
-            "uid": "eu1655395710291Ackvi",
-            "update_time": 1750589006,
-            "uuid": "344a3493677c94c5"
         },
         {
             "active_time": 1732878777,
@@ -2024,13 +2024,13 @@
         }
     ],
     "success": true,
-    "t": 1750616853986,
-    "tid": "90942eed4f9611f0b492d6238a027bdd",
+    "t": 1750710763612,
+    "tid": "36fe0a98507111f0bc424a7a32184703",
     "file": {
         "name": "tuya-raw.json",
         "description": "Full raw list of Tuya devices.",
         "account": "k7frnqg3tynew44xpsnu",
-        "date": "2025-06-22T21:27:34.561747",
+        "date": "2025-06-23T23:32:44.234995",
         "tinytuya": "1.17.2"
     }
 }
