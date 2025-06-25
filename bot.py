@@ -107,8 +107,11 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await query.message.reply_text("מזגן סלון כובה!")
 
 # הרצת הבוט
-if __name__ == "__main__":
+def main() -> None:
     application = Application.builder().token(BOT_TOKEN).build()
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CallbackQueryHandler(button))
     application.run_polling()
+
+if __name__ == "__main__":
+    main()
