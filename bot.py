@@ -111,7 +111,7 @@ def main() -> None:
     application = Application.builder().token(BOT_TOKEN).build()
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CallbackQueryHandler(button))
-    application.run_polling()
+    application.run_polling(allowed_updates=Update.ALL)
 
 if __name__ == "__main__":
     main()
