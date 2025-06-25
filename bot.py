@@ -1,20 +1,13 @@
 import os
-from threading import Thread
-import time
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 import tinytuya
 import pytz
+from http.server import HTTPServer, SimpleHTTPRequestHandler
+import threading
 
 # הגדרת פורט
 port = int(os.getenv("PORT", 8080))
-
-def run_server():
-    while True:
-        time.sleep(1)  # שומר את הפורט חי
-
-# הפעל שרת רקע
-Thread(target=run_server, daemon=True).start()
 
 # קריאת משתנים סביבתיים
 BOT_TOKEN = os.getenv("BOT_TOKEN")
@@ -55,6 +48,11 @@ cloud = tinytuya.Cloud(
     apiKey=TUYA_API_KEY,
     apiSecret=TUYA_API_SECRET
 )
+
+# שרת פשוט למילוי דרישת הפורט
+def run_http_server():
+    server = HTTPServer(('', port), SimpleHTTPRequestHandler)
+    server.serve_forever()
 
 # פונקציית התחלה
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -117,6 +115,10 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await query.message.reply_text("מזגן סלון כובה!")
 
 def main() -> None:
+    # הפעל שרת HTTP ברקע
+    http_thread = threading.Thread(target=run_http_server, daemon=True)
+    http_thread.start()
+    
     # בנה והרץ את הבוט
     application = Application.builder().token(os.getenv("BOT_TOKEN")).build()
     application.add_handler(CommandHandler("start", start))
