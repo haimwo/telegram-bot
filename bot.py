@@ -1,19 +1,20 @@
 import os
 from threading import Thread
 import time
-
-def run_server():
-    port = int(os.getenv("PORT", 8080))
-    while True:
-        time.sleep(1)  # שומר את הפורט חי
-
-# הפעל שרת רקע
-Thread(target=run_server).start()
-Thread(target=run_server).start()
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 import tinytuya
 import pytz
+
+# הגדרת פורט
+port = int(os.getenv("PORT", 8080))
+
+def run_server():
+    while True:
+        time.sleep(1)  # שומר את הפורט חי
+
+# הפעל שרת רקע
+Thread(target=run_server, daemon=True).start()
 
 # קריאת משתנים סביבתיים
 BOT_TOKEN = os.getenv("BOT_TOKEN")
@@ -24,8 +25,6 @@ ALLOWED_CHAT_IDS = ["103383402", "7201721304"]
 
 # הגדרת אזור זמן (ישראל)
 TIMEZONE = pytz.timezone('Asia/Jerusalem')
-
-# (המשך עם שאר הקוד כרגיל)
 
 # רשימת מכשירים
 DEVICES = {
@@ -117,9 +116,9 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
             }])
             await query.message.reply_text("מזגן סלון כובה!")
 
-# הרצת הבוט
 def main() -> None:
-    application = Application.builder().token(BOT_TOKEN).build()
+    # בנה והרץ את הבוט
+    application = Application.builder().token(os.getenv("BOT_TOKEN")).build()
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CallbackQueryHandler(button))
     application.run_polling()
