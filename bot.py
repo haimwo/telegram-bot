@@ -5,9 +5,10 @@ import time
 def run_server():
     port = int(os.getenv("PORT", 8080))
     while True:
-        time.sleep(1)  # שמירת התהליך חי
+        time.sleep(1)  # שומר את הפורט חי
 
 # הפעל שרת רקע
+Thread(target=run_server).start()
 Thread(target=run_server).start()
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
