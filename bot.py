@@ -115,8 +115,11 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await query.message.reply_text("מזגן סלון כובה!")
 
 def main() -> None:
+    import threading
+    from server import run_server
+    
     # הפעל שרת HTTP ברקע
-    http_thread = threading.Thread(target=run_http_server, daemon=True)
+    http_thread = threading.Thread(target=run_server, daemon=True)
     http_thread.start()
     
     # בנה והרץ את הבוט
