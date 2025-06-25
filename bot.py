@@ -3,7 +3,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 import tinytuya
 import pytz
-from http.server import HTTPServer, SimpleHTTPRequestHandler
+from waitress import serve
 import threading
 
 # הגדרת פורט
@@ -48,11 +48,6 @@ cloud = tinytuya.Cloud(
     apiKey=TUYA_API_KEY,
     apiSecret=TUYA_API_SECRET
 )
-
-# שרת פשוט למילוי דרישת הפורט
-def run_http_server():
-    server = HTTPServer(('', port), SimpleHTTPRequestHandler)
-    server.serve_forever()
 
 # פונקציית התחלה
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -114,9 +109,15 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
             }])
             await query.message.reply_text("מזגן סלון כובה!")
 
+def app(environ, start_response):
+    status = '200 OK'
+    response_headers = [('Content-type', 'text/plain')]
+    start_response(status, response_headers)
+    return [b'Hello, World!']
+
 def main() -> None:
-    # הפעל שרת HTTP ברקע
-    http_thread = threading.Thread(target=run_http_server, daemon=True)
+    # הפעל שרת Waitress ברקע
+    http_thread = threading.Thread(target=lambda: serve(app, host='0.0.0.0', port=port), daemon=True)
     http_thread.start()
     
     # בנה והרץ את הבוט
