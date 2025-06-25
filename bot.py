@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 import tinytuya
 import pytz
 from waitress import serve
-import threading
+from wsgiref.simple_server import make_server
 
 # הגדרת פורט
 port = int(os.getenv("PORT", 8080))
@@ -48,6 +48,13 @@ cloud = tinytuya.Cloud(
     apiKey=TUYA_API_KEY,
     apiSecret=TUYA_API_SECRET
 )
+
+# WSGI app תקף
+def simple_app(environ, start_response):
+    status = '200 OK'
+    response_headers = [('Content-Type', 'text/plain')]
+    start_response(status, response_headers)
+    return [b'Bot is running\n']
 
 # פונקציית התחלה
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -109,16 +116,11 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
             }])
             await query.message.reply_text("מזגן סלון כובה!")
 
-def app(environ, start_response):
-    status = '200 OK'
-    response_headers = [('Content-type', 'text/plain')]
-    start_response(status, response_headers)
-    return [b'Hello, World!']
-
 def main() -> None:
     # הפעל שרת Waitress ברקע
-    http_thread = threading.Thread(target=lambda: serve(app, host='0.0.0.0', port=port), daemon=True)
-    http_thread.start()
+    import multiprocessing
+    p = multiprocessing.Process(target=lambda: serve(simple_app, host='0.0.0.0', port=port))
+    p.start()
     
     # בנה והרץ את הבוט
     application = Application.builder().token(os.getenv("BOT_TOKEN")).build()
